@@ -1,0 +1,19 @@
+import sys
+from cx_Freeze import setup, Executable
+
+# Dependencies are automatically detected, but it might need fine tuning.
+# "packages": ["os"] is used as example only
+build_exe_options = {"packages": ["os"], "excludes": ["tkinter"]}
+
+# base="Win32GUI" should be used only for Windows GUI app
+base = None
+if sys.platform == "win32":
+    base = "Win32GUI"
+
+setup(
+    name = "Tic Tac 2.0",
+    version = "0.1",
+    description = "A Game",
+    options = {"build_exe": build_exe_options},
+    executables = [Executable("Tic_tac_2_online.py", base=base, icon="Tic_tac_2_icon1.ico")]
+)
