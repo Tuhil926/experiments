@@ -1,0 +1,7 @@
+anndiv1 = float(input("Initial dividend amount per year:"))
+findiv2 = float(input("Required dividend amount per year:"))
+nomval = float (input("nominal value :"))
+x = (anndiv1 * 100)/(nomval * 10)
+y = (findiv2 * 100)/(nomval * 10)
+print(f"Initial number of shares :{x}")
+print(f"number of shares required :{y - x}")

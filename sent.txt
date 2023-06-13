@@ -1,0 +1,228 @@
+C:\Users\kaipa\PycharmProjects\KVT\venv\Scripts\python.exe C:/Users/kaipa/PycharmProjects/KVT/myprojects/experiments/email_sender.py
+4 sending " Paper Presentation_Aman Srivastava.jpg " to srivastava.amank93@gmail.com
+0 sending " Paper Presentation_Aastha Mathpal.jpg " to aasthamathpal@gmail.com
+7 sending " Paper Presentation_Anurag Shelar.jpg 3 sending " Paper Presentation_Aman Singh Gurjar.jpg " to" to satwinders.mba08@iimamritsar.ac.in
+ anurag.mbaa21009@iimkashipur.ac.in
+2 sending " 8Paper Presentation_AJAY S.jpg " to ajays.cs19@bitsathy.ac.in
+ sending " Paper Presentation_Aruni Saxena.jpg16 " to 205023@jmc.du.ac.in
+ sending " sending " Paper Presentation_ANOOSKAVIN G.jpg " to anooskavin.cs19@bitsathy.ac.in
+ Paper Presentation_Aditi Sridhar.jpg " to aditi.sridhar2021@vitstudent.ac.in
+5 sending " Paper Presentation_Amrit Yadav.jpg " to happy.amrit1050.ay@gmail.com
+9 sending " Paper Presentation_CHIKKALA SAI SIRISHA.jpg " to saisaisirisha@gmail.com
+4 - Sent
+7 - Sent
+0 - Sent
+10 sending " Paper Presentation_DEVANAND V.jpg " to devanand.cs19@bitsathy.ac.in
+8 - Sent
+11 sending " Paper Presentation_Dondapati Abhinay Reddy.jpg " to dondapatiabhinayreddy@gmail.com
+2 - Sent
+9 - Sent
+12 sending " Paper Presentation_ESHWAR BHARATHI M.jpg " to eshwarbharathi.fd21@bitsathy.ac.in
+3 - Sent
+13 sending " Paper Presentation_Gandreti Bhavana.jpg " to bhavanagandreti003@gmail.com
+6 - Sent
+5 - Sent
+1 - Sent
+14 sending " Paper Presentation_Gandreti Gowtham Patnaik.jpg " to ggowtham161972@gmail.com
+15 sending " Paper Presentation_Ghulam Kalim Azad.jpg " to mr.praveen1487@gmail.com
+16 sending " Paper Presentation_GURU PRANATHARTHIHARAN B P.jpg " to gurupranatharthiharan.bt22@bitsathy.ac.in
+17 sending " Paper Presentation_HARSHINI DH.jpg " to harshini.fd21@bitsathy.ac.in
+18 sending " Paper Presentation_Hitenkumar Harish Motiyani.jpg " to hitenmotiyani@gmail.com
+19 sending " Paper Presentation_JAISURYA U K.jpg " to jaisuryait22@bitsathy.ac.in
+10 - Sent
+13 - Sent
+20 sending " Paper Presentation_JAYASURYA. R.jpg " to jayasurya.tx22@bitsathy.ac.in
+12 - Sent
+11 - Sent
+14 - Sent
+15 - Sent
+21 sending " Paper Presentation_Jeevitha M.jpg " to jeevithamurugan.2512@gmail.com
+17 - Sent16 - Sent
+
+2218 19 - Sent
+ sending " Paper Presentation_Jenina Angelin D.jpg " to jeninaangelind@gmail.com
+- Sent
+23 sending " Paper Presentation_K. Hanurathan.jpg " to hanurathankarri@gmail.com
+24 sending " Paper Presentation_Kalamcharla Satheesh.jpg " to competitor.000.o@gmail.com
+25 sending " Paper Presentation_KANISHKAR B.jpg " to kanishkar.ad20@bitsathy.ac.in
+26 sending " Paper Presentation_KAVIN KUMAR.jpg " to kavinkumar.tx21@bitsathy.ac.in
+29 sending " Paper Presentation_Lalith K.jpg " to 28 sending " 20ec081@kpriet.ac.in
+Paper Presentation_Krithika Venkatesan.jpg " to krithika.2021@vitstudent.ac.in
+27 sending " Paper Presentation_KISHOR KUMAR. R.jpg " to kishorkumar.tx22@bitsathy.ac.in
+20 - Sent
+21 - Sent
+22 - Sent
+30 sending " Paper Presentation_maverick.jpg " to surya.ad22@bitsathy.ac.in
+31 sending " Paper Presentation_mithun kumar v.jpg " to mithunkumar.it22@bitsathy.ac.in
+23 - Sent
+25 - Sent
+24 - Sent
+32 sending " Paper Presentation_MOHNISH SURYAA R.jpg " to mohnishsuryaa.ag22@bitsathy.ac.in
+29 - Sent
+26 - Sent
+28 - Sent
+27 - Sent
+35 sending " Paper Presentation_P. Mohana srija.jpg " to33 sending " 34 sending " Paper Presentation_naveen.cd22@bitsathy.ac.in.jpg " to naveen.cd22@bitsathy.ac.in
+Paper Presentation_NATTUDURAI C.jpg meghanasri776@gmail.com
+ " to nattudurai.se21@bitsathy.ac.in
+36 sending " Paper Presentation_PONSIVANESAN E D.jpg " to ponsivanesan.20mts@kongu.edu
+37 sending " Paper Presentation_PRADEEP A.jpg38 sending " Paper Presentation_Pranav Narayan B.jpg " to " to pradeep.cd22@bitsathy.ac.in narayanpranav2002@gmail.com
+
+39 sending " Paper Presentation_PRATHIGA P.jpg " to prathiga.ei19@bitsathy.ac.in
+31 - Sent
+30 - Sent
+41 sending " Paper Presentation_Praveen PS.jpg " to mr.praveen1487@gmail.com
+40 sending " Paper Presentation_Prathisha J.jpg " to prathisha.bt22@bitsathy.ac.in
+32 - Sent
+42 sending " Paper Presentation_PREETHIKA A.jpg " to preethikaa.20mts@kongu.edu
+33 - Sent
+35 - Sent
+34 - Sent
+36 - Sent
+43 sending " Paper Presentation_PURUSHOTHAMAN G.jpg " to purushothaman.ei19@bitsathy.ac.in
+45 sending " Paper Presentation_Ragul M.jpg " to ragul.ig19@bitsathy.ac.in
+37 - Sent
+44 sending " Paper Presentation_Quazi Sameed.jpg " to sameedquazi999@gmail.com
+38 - Sent
+39 - Sent
+46 sending " Paper Presentation_Ramkumar.jpg " to nrkramofficial@gmail.com
+47 sending " Paper Presentation_Ravi teja Dadi.jpg " to Dadiraviteja5@gmail.com
+48 sending " Paper Presentation_SAI GANESH SALAPU.jpg " to saiganeshsalapu1@gmail.com
+49 sending " Paper Presentation_Sakshi Gokhale.jpg " to sakshi.gokhale2021@vitstudent.ac.in
+41 - Sent
+40 - Sent
+42 - Sent
+51 sending " Paper Presentation_SARANYA GAYATHRRI DEVI N.jpg " to saranyagayathrridevi.ei19@bitsathy.ac.in
+50 sending " Paper Presentation_SANTHOSH KUMAR S.jpg " to santhoshkumar.ei19@bitsathy.ac.in
+43 - Sent
+52 sending " Paper Presentation_Satwinder Singh.jpg " to satwinders.mba08@iimamritsar.ac.in
+44 - Sent
+53 sending " Paper Presentation_Shaik Imran.jpg " to shaikimran2723@gmail.com
+45 - Sent
+46 - Sent
+54 sending " Paper Presentation_Shamanth S.jpg " to shamanth.al21@bitsathy.ac.in
+47 - Sent
+55 sending " Paper Presentation_Shreyaa. V.jpg " to shreyaa.bm21@bitsathy.ac.in
+49 - Sent
+56 sending " Paper Presentation_SREE HARAN M.jpg " to sreeharan.me22@bitsathy.ac.in
+48 - Sent
+57 sending " Paper Presentation_SUBHA R.jpg " to subha.ec19@bitsathy.ac.in
+58 sending " Paper Presentation_Sudeep V.jpg " to sudeep.cd22@bitsathy.ac.in
+59 sending " Paper Presentation_SUDHAKARAN S.jpg " to sudhakarans.20mts@kongu.edu
+51 - Sent
+50 - Sent
+52 - Sent
+60 sending " Paper Presentation_Sudipta P Kashyap.jpg " to spk070802@gmail.com
+61 sending " Paper Presentation_SUHAS R M.jpg " to suhasrm.20mts@kongu.edu
+53 - Sent
+62 sending " Paper Presentation_SUHASH V.jpg " to suhash.ad22@bitsathy.ac.in
+55 - Sent
+63 sending " Paper Presentation_SWATHI R.jpg " to swathi.ei19@bitsathy.ac.in
+54 - Sent
+56 - Sent
+64 sending " Paper Presentation_Swetha Karri.jpg " to Swethakarri143@gmail.com
+65 sending " Paper Presentation_Thejaswini Jayasingh.jpg " to thejaswini.cs22@bitsathy.ac.in
+66 sending " Paper Presentation_THIVIN KIRUTHIK RS.jpg " to thivinkiruthik.ad20@bitsathy.ac.in
+58 - Sent
+57 - Sent
+59 - Sent
+68 sending " Paper Presentation_Trisha S.jpg 67" to trisha.cs22@bitsathy.ac.in
+ sending " Paper Presentation_Tia Rajesh.jpg " to tia.rajesh2021@vitstudent.ac.in
+69 sending " Paper Presentation_U S Vidisha.jpg " to usvidisha6836@gmail.com
+61 - Sent
+60 - Sent
+70 sending " Paper Presentation_Varshini Sathyamurthy.jpg " to varshini2402@gmail.com
+62 - Sent
+71 sending " Paper Presentation_Varun P R.jpg " to 20ec181@kpriet.ac.in
+63 - Sent
+72 sending " Paper Presentation_Venkatesh R.jpg " to learner1750@gmail.com
+64 - Sent
+73 sending " Paper Presentation_VIKRAM P V.jpg " to vikram.ei19@bitsathy.ac.in
+65 - Sent
+66 - Sent
+74 sending " Paper Presentation_YOKEESWRAN M.jpg " to yokeeswran.ig19@bitsathy.ac.in
+67 - Sent
+68 - Sent
+69 - Sent
+70 - Sent
+71 - Sent
+72 - Sent
+73 - Sent
+74 - Sent
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+
+Process finished with exit code 0
